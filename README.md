@@ -1,3 +1,4 @@
 # -first-repository-
-this is my first repository 
-author - Priyanshi Saini
+this is my first repository. 
+<br>
+Author - Priyanshi Saini
